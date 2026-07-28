@@ -43,7 +43,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 flex-shrink-0">
             <img
-              src="/Logo_Telly_InTech.svg"
+              src="/logo_s.png"
               alt="Telly InTech"
               className="h-10 lg:h-12 w-auto"
             />
